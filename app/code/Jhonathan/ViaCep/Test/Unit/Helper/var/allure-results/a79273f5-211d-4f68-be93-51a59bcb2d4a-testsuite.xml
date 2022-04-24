@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alr:test-suite xmlns:alr="urn:model.allure.qatools.yandex.ru" start="1645660446653" stop="1645660446660" version="1.4.0">
+  <name>Jhonathan\ViaCep\Test\Unit\Helper\DataTest</name>
+  <test-cases>
+    <test-case start="1645660446654" stop="1645660446660" status="passed">
+      <name>testRequest</name>
+    </test-case>
+  </test-cases>
+</alr:test-suite>
